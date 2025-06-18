@@ -43,4 +43,9 @@ Valorizo o aprendizado contínuo 📚, o comprometimento e a responsabilidade em
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Euflauzino&radius=19&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Nicolas-Euflauzino/Nicolas-Euflauzino/output/snake.svg" alt="Snake animation" />
+
+
 ###
