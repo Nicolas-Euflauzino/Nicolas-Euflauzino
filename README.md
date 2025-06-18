@@ -1,7 +1,11 @@
 
 <h1 align="left">Seja bem vindo! 👋</h1>
 
-<p align="left">Olá! Sou o Nicolas Daniel, tenho 18 anos sou residente de Arujá - SP e atualmente estudante de programação pelo Instituto Proa.</p>
+<p align="left">Olá! Me chamo Nicolas, sou formado como Técnico em Administração pela ETEC 🎓 e atualmente curso Desenvolvimento Web Full Stack pelo Instituto PROA 💻.
+
+Tenho grande interesse pela área da tecnologia e busco constantemente aprimorar meus conhecimentos, com foco em me tornar um profissional capacitado para atuar em projetos desafiadores e com impacto real 🚀.
+
+Valorizo o aprendizado contínuo 📚, o comprometimento e a responsabilidade em tudo o que me proponho a fazer. Estou em busca de oportunidades que me permitam aplicar na prática as habilidades que venho desenvolvendo e contribuir de forma significativa para o crescimento de equipes e organizações 🤝.</p>
 
 ###
 
