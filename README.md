@@ -1,7 +1,7 @@
 
 <h1 align="left">Seja bem vindo! 👋</h1>
 
-<p align="left">Olá! Me chamo Nicolas, sou formado como Técnico em Administração pela ETEC 🎓 e atualmente curso Desenvolvimento Web Full Stack pelo Instituto PROA 💻.
+<p align="left">Olá! Me chamo Nicolas, sou formado como Técnico em Administração de empresas pela ETEC, Desenvolvedor Web Full Stack pelo Instituto PROA 💻, e atualmente estudante de análise e desenvolvimento de sistemas.
 
 Tenho grande interesse pela área da tecnologia e busco constantemente aprimorar meus conhecimentos, com foco em me tornar um profissional capacitado para atuar em projetos desafiadores e com impacto real 🚀.
 
