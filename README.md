@@ -27,21 +27,4 @@ Valorizo o aprendizado contínuo 📚, o comprometimento e a responsabilidade em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  
-
-</div>
-
-###
-
-<h2 align="left">Informações 📊</h2>
-
-### 
-
-
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Euflauzino&radius=19&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"/>
-</div>
-
-
-
-###
+  </div>
